@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulhafiz</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie/programmer-working-on-pc-3917154](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3FuXHQFdp-W74MhHojJhqr&ust=1695154875625000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC86JL-tIEDFQAAAAAdAAAAABAU)" alt="">
+<img align="right" alt="Coding" width="400" src="[https://iconscout.com/lottie/programmer-working-on-pc-3917154](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3FuXHQFdp-W74MhHojJhqr&ust=1695154875625000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC86JL-tIEDFQAAAAAdAAAAABAU)](https://dribbble.com/shots/3848914-Programmer-Thomas)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizuna&label=Profile%20views&color=0e75b6&style=flat" alt="hafizuna" /> </p>
 
