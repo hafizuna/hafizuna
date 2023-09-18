@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulhafiz</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="[https://iconscout.com/lottie/programmer-working-on-pc-3917154](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3FuXHQFdp-W74MhHojJhqr&ust=1695154875625000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC86JL-tIEDFQAAAAAdAAAAABAU)](https://dribbble.com/shots/3848914-Programmer-Thomas)](https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1PXU5F78Ke1ObiO6pvEApN&ust=1695155461319000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiD4qqAtYEDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="(https://www.istockphoto.com/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-gm1356364287-430554332?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprogrammer&utm_term=programmer%3A%3A%3A)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizuna&label=Profile%20views&color=0e75b6&style=flat" alt="hafizuna" /> </p>
 
