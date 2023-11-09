@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, NodeJs, MongoDB**
 
-- 📫 How to reach me **abmohammed790@gmail.com**
+- 📫 How to reach me **hafizyt2014@gmail.com**
 
 - ⚡ Fun fact **Quick Learner**
 
