@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **React, NodeJs, MongoDB**
+- 🌱 I’m currently learning **Angular
 
 - 📫 How to reach me **hafizyt2014@gmail.com**
 
